@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1708553202 source:c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"vacunados.h"
+	"menu.h"
+	"validaciones.h"
+	"LinkedList.h"
+	"controller.h"
+
+1708541207 c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\vacunados.h
+
+1708541355 source:c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\vacunados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"vacunados.h"
+
+1708536222 source:c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1708547376 c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\linkedlist.h
+
+1708545635 source:c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1708537672 source:c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1708537672 c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\validaciones.h
+
+1708552809 source:c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"controller.h"
+	"vacunados.h"
+	"LinkedList.h"
+
+1708551801 c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\controller.h
+	"LinkedList.h"
+	"vacunados.h"
+
+1708543647 c:\users\avall\onedrive\escritorio\finalfebrero\parcialvacunas\menu.h
+
